@@ -27,6 +27,7 @@ Podemos revisarlo ejecutando el codigo "ls" estando en bash o el comando "dir" s
 generar la base de datos con la config base de django: "py manage.py migrate"
 
 luego levantamos el servidor: "py manage.py runserver"
+python manage.py runserver
 
 se creo .gitignore para ignorar carpetas o 
 archivos con info que no queremos pasarles a otros
